@@ -1,0 +1,6 @@
+id=fpslock
+name=FPS Lock & Spoof
+version=v1.0
+versionCode=1
+author=Isbah
+description=Kunci refresh rate + spoof perangkat per-app via Zygisk
